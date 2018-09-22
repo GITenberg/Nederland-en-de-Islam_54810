@@ -1,0 +1,26 @@
+_repo: Nederland-en-de-Islam_54810
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hurgronje, C. Snouck (Christiaan Snouck)
+    aliases:
+    - Snouck Hurgronje, Christiaan
+    - Hurgronje, C. Snouch
+    - Hurgronje, Snouck
+    birthdate: 1857
+    deathdate: 1936
+    gutenberg_agent_id: '3340'
+    url: http://www.gutenberg.org/2009/agents/3340
+description: ''
+gutenberg_issued: '2017-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54810'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Nederland en de Islâm
+url: http://www.gutenberg.org/ebooks/54810
