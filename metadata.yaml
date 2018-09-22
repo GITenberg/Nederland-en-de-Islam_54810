@@ -1,5 +1,8 @@
 _repo: Nederland-en-de-Islam_54810
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54810-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Hurgronje, C. Snouck (Christiaan Snouck)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '3340'
     url: http://www.gutenberg.org/2009/agents/3340
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54810#Nederland-en-de-Islam
 gutenberg_issued: '2017-05-30'
 gutenberg_type: Text
 identifiers:
